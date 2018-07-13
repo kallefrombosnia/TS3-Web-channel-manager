@@ -1,0 +1,23 @@
+body {
+	background-color: #1a2234;
+	color: #efefef;
+}
+
+.card{
+	margin-top: 150px;
+}
+
+.card .card-header{
+	background-color: #1b2335;
+	font-weight: 600;
+	border-bottom: 1px solid #f8f9fa;
+}
+.card .card-body{
+	background-color: #1a2234;
+}
+.card .list-group-item{
+	color: black;
+}
+.img-rounded{
+	width: 27px;
+}
